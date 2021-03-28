@@ -1,13 +1,13 @@
-package com.cron.dai;
+package com.miadistribuidora.miadistribuidora;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CronDaiApplication {
+public class MiadistribuidoraApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CronDaiApplication.class, args);
+		SpringApplication.run(MiadistribuidoraApplication.class, args);
 	}
 
 }
