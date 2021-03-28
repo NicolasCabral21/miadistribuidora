@@ -1,4 +1,4 @@
-package com.miadistribuidora.miadistribuidora;
+package com.cron.dai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
